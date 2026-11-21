@@ -2,7 +2,7 @@
 
 A two-page Power BI report on agricultural commodity prices in Kerala's mandis (wholesale markets), built from daily data.gov.in (Agmarknet) snapshots. It answers three business questions about price volatility and district-level price differences, with a focus on Kozhikode (Calicut).
 
-> **Data scope:** the current report is built on one daily snapshot (17 Nov 2026, 888 Kerala rows from 97 market-commodity reports). It compares commodities, districts and markets on that day. It does not show trends over time. See [Limitations](#limitations).
+> **Data scope:** the current report is built on one daily snapshot (17 Nov 2026, 888 Kerala rows from 97 markets). It compares commodities, districts and markets on that day. It does not show trends over time. See [Limitations](#limitations).
 
 ## Business questions
 
